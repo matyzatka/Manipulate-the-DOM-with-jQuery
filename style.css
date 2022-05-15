@@ -1,0 +1,37 @@
+body {
+    width: 33%;
+    font-family: Helvetica;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  ul {
+    text-align: left;
+    list-style-type: square;
+  }
+  
+  ol {
+    text-align: left;
+    list-style-type: upper-roman;
+  }
+  
+  .panic {
+      color: red;
+  }
+  
+  .fun {
+    font-weight: bold;
+    text-decoration-line: underline;
+  }
+  
+  .shopping {
+    color: lightblue;
+  }
+  
+  ol ul {
+      list-style-type: circle;
+  }
+  
+  .bolded {
+      font-weight: bolder;
+  }
